@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on small-to-medium projects 
-- 📫 How to reach me william.hleucka@gmail.com
+- 📫 How to reach me https://williamhleucka.com or william.hleucka@gmail.com
 
 <!---
 whleucka/whleucka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
