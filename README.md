@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @whleucka
-- 👀 I’m interested in Full Stack development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on small-to-medium projects 
 - 📫 How to reach me https://williamhleucka.com or william.hleucka@gmail.com
 
 <!---
