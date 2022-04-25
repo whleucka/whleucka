@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whleucka
+- 👋 Hi, my name is William Hleucka
 - 📫 How to reach me william.hleucka@gmail.com
 :wq
 <!---
