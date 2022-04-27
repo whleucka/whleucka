@@ -1,4 +1,4 @@
-[![whleucka's GitHub stats](https://github-readme-stats.vercel.app/api?username=whleucka&theme=buefy)](https://github-readme-stats.vercel.app/api?username=whleucka)
+[![whleucka's GitHub stats](https://github-readme-stats.vercel.app/api?username=whleucka&theme=buefy&show_icons=true)](https://github-readme-stats.vercel.app/api?username=whleucka)
 
 - 👋 Hi, my name is William Hleucka
 - 📫 How to reach me william.hleucka@gmail.com
