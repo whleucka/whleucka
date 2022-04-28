@@ -1,6 +1,5 @@
 ![whleucka's GitHub stats](https://github-readme-stats.vercel.app/api?username=whleucka&theme=dark&show_icons=true)
 
-- 👋 Hi, my name is William Hleucka
 - 📫 How to reach me william.hleucka@gmail.com
 :wq
 <!---
