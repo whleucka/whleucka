@@ -1,4 +1,4 @@
-![whleucka's GitHub stats](https://github-readme-stats.vercel.app/api?username=whleucka&theme=dark&show_icons=true)
+<!---![whleucka's GitHub stats](https://github-readme-stats.vercel.app/api?username=whleucka&theme=dark&show_icons=true)-->
 
 - 📫 How to reach me william.hleucka@gmail.com
 :wq
