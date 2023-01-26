@@ -5,7 +5,7 @@
 * 👩 Pronouns: He/Him
 * 🔭 I’m currently working on web development
 * 🌱 I’m currently learning Rust
-* 💬 Ask me about Soprano
+* 💬 Ask me about Soprano, Celestial, Constellation
 * 📫 How to reach me: william.hleucka@gmail.com
 * ❤️ I love coding, hockey, working out, reddit
 * ⚡ Fun fact: there are more trees on Planet Earth than stars in the Milky Way. There are about three trillion trees on Planet Earth, and between 100-400 billion stars, approximately, in the galaxy.
