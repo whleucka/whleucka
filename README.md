@@ -13,7 +13,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=whleucka&show_icons=true&theme=tokyonight"/>
 </a>
 <a href='#'>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=whleucka&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=whleucka&layout=compact&theme=tokyonight&langs_count=8"/>
 </a>
 
 <!---
