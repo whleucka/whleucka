@@ -9,9 +9,12 @@
 * ❤️ I love coding, hockey, working out, reddit
 * ⚡ Fun fact: there are more trees on Planet Earth than stars in the Milky Way. There are about three trillion trees on Planet Earth, and between 100-400 billion stars, approximately, in the galaxy.
 
+<a href='#'>
 <img src="https://github-readme-stats.vercel.app/api?username=whleucka&show_icons=true&theme=tokyonight"/>
-
+</a>
+<a href='#'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whleucka&layout=compact&theme=tokyonight"/>
+</a>
 
 <!---
 whleucka/whleucka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
