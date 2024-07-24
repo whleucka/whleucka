@@ -4,8 +4,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=whleucka&theme=tokyonight)](#)
 
-[![GitHub Score](https://github-readme-stats.vercel.app/api?username=whleucka&show_icons=true&theme=tokyonight)](#)
-
 [![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs?username=whleucka&layout=compact&theme=tokyonight&langs_count=8&hide=javascript)](#)
 
 
